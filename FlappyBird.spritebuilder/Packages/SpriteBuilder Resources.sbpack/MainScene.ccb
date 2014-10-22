@@ -153,7 +153,7 @@
 						<key>type</key>
 						<string>StringSimple</string>
 						<key>value</key>
-						<string></string>
+						<string>parallaxContainer</string>
 					</dict>
 					<dict>
 						<key>name</key>
