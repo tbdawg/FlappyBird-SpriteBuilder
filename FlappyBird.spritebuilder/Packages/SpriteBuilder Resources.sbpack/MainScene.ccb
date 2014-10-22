@@ -142,7 +142,7 @@
 				<key>displayName</key>
 				<string>parallaxContainer</string>
 				<key>memberVarAssignmentName</key>
-				<string>_parallaxContianer</string>
+				<string>_parallaxContainer</string>
 				<key>memberVarAssignmentType</key>
 				<integer>1</integer>
 				<key>properties</key>
